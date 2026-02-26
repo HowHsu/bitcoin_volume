@@ -21,3 +21,6 @@
 [submodule "thinking-in-bitcoin"]
 	path = thinking-in-bitcoin
     url = git@github.com:HowHsu/thinking-in-bitcoin
+[submodule "bitcoin-notes"]
+	path = bitcoin-notes
+	url = git@github.com:glozow/bitcoin-notes.git
