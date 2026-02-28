@@ -6,10 +6,6 @@
 	path = bitcoin_core_dev_irc
 	url = git@github.com:HowHsu/bitcoin_core_dev_irc_logs.git
 
-[submodule "bitcoin_mempool_clusters_data"]
-	path = bitcoin_mempool_clusters_data
-    url = git@github.com:HowHsu/bitcoin_mempool_clusters_data
-
 [submodule "bitcoin_scripts"]
 	path = bitcoin_scripts
     url = git@github.com:HowHsu/bitcoin_scripts
