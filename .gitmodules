@@ -2,10 +2,6 @@
 	path = bitcoin
 	url = git@github.com:HowHsu/bitcoin.git
 
-[submodule "bitcoin_core_dev_irc"]
-	path = bitcoin_core_dev_irc
-	url = git@github.com:HowHsu/bitcoin_core_dev_irc_logs.git
-
 [submodule "bitcoin_scripts"]
 	path = bitcoin_scripts
     url = git@github.com:HowHsu/bitcoin_scripts
